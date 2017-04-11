@@ -1,6 +1,6 @@
 {
   "name": "marko-form",
-  "version": "1.0.0",
+  "version": "1.0.0-alpha.1",
   "description": "Marko component to help building forms the right way",
   "main": "index.js",
   "scripts": {
