@@ -1,0 +1,8 @@
+{
+	"@validationRules": "array",
+	"@required": "boolean",
+	"@debug": "boolean",
+	"@formName": "string",
+	"@name": "string",
+	"@*": "any"
+}

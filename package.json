@@ -1,0 +1,31 @@
+{
+  "name": "marko-form",
+  "version": "1.0.0-alpha.1",
+  "description": "Marko component to help building forms the right way",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matteozambon89/marko-form.git"
+  },
+  "keywords": [
+    "marko",
+    "component",
+    "form",
+    "validation"
+  ],
+  "author": "Matteo Zambon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matteozambon89/marko-form/issues"
+  },
+  "homepage": "https://github.com/matteozambon89/marko-form#readme",
+  "dependencies": {
+    "extend-object": "^1.0.0",
+    "marko": "^4.2.2",
+    "uuid": "^3.0.1",
+    "validator": "^7.0.0"
+  }
+}
