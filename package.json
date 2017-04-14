@@ -2,8 +2,9 @@
   "name": "marko-form",
   "version": "1.0.0-alpha.1",
   "description": "Marko component to help building forms the right way",
-  "main": "index.js",
   "scripts": {
+    "start": "marko-starter server",
+    "build": "marko-starter build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -27,5 +28,18 @@
     "marko": "^4.2.2",
     "uuid": "^3.0.1",
     "validator": "^7.0.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint": "^3.18.0",
+    "eslint-config-trails": "^3.0.0",
+    "eslint-plugin-json": "^1.2.0",
+    "eslint-plugin-markdown": "^1.0.0-beta.4",
+    "eslint-plugin-mocha": "^4.9.0",
+    "lasso": "^2.11.8",
+    "lasso-marko": "^2.3.0",
+    "marko-starter": "^1.0.0",
+    "marko-devtools": "^1.0.2",
+    "mocha": "^3.2.0"
   }
 }

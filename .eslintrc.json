@@ -8,6 +8,9 @@
 		"json",
 		"mocha"
 	],
+	"globals": {
+		"test": true
+	},
 	"rules": {
 		"accessor-pairs": "error",
 		"arrow-spacing": [
